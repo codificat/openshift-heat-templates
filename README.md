@@ -1,2 +1,2 @@
-openshift-heat-templates
-========================
+enterprise-heat-templates
+=========================
